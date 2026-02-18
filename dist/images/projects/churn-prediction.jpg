@@ -1,0 +1,9 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#fef3c7"/>
+  <text x="400" y="300" font-family="Arial, sans-serif" font-size="24" fill="#f59e0b" text-anchor="middle">
+    Churn Prediction Project
+  </text>
+  <text x="400" y="340" font-family="Arial, sans-serif" font-size="16" fill="#fbbf24" text-anchor="middle">
+    Replace with actual project image
+  </text>
+</svg>
